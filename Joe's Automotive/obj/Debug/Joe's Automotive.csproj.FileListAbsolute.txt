@@ -1,0 +1,9 @@
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\bin\Debug\Joe's Automotive.exe.config
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\bin\Debug\Joe's Automotive.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\bin\Debug\Joe's Automotive.pdb
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\obj\Debug\Joe's Automotive.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\obj\Debug\Joe_s_Automotive.Form1.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\obj\Debug\Joe_s_Automotive.Properties.Resources.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\obj\Debug\Joe's Automotive.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\Joe's Automotive\obj\Debug\Joe's Automotive.pdb
